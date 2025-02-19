@@ -1,0 +1,6 @@
+.env
+.venv/
+dist/
+*.log
+*.pyc
+build/
