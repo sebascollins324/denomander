@@ -1,6 +1,6 @@
 {
   "name": "denomander",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Deno command-line interfaces made easy",
   "main": "src/index.ts",
   "scripts": {
